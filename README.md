@@ -1,6 +1,3 @@
-# Shape-Texture Debiased Neural Network Training
-Code and models for the paper [Shape-Texture Debiased Neural Network Training](https://arxiv.org/pdf/2010.05981.pdf).
-
 ## Introduction
 <div align="center">
   <img src="teaser.jpg" width="800px" />
@@ -34,14 +31,3 @@ Please see the [Training recipes](TRAINING.md) / [Testing recipes](TESTING.md) f
 
 # Acknowledgements
 Part of this code comes from [pytorch-classification](https://github.com/bearpaw/pytorch-classification) and [AdaIN](https://github.com/naoto0804/pytorch-AdaIN).
-
-# Citation
-If you use our code, models or wish to refer to our results, please use the following BibTex entry:
-```
-@article{li2020shapetexture,
-  author  = {Li, Yingwei and Yu, Qihang and Tan, Mingxing and Mei, Jieru and Tang, Peng and Shen, Wei and Yuille, Alan and Xie, Cihang},
-  title   = {Shape-Texture Debiased Neural Network Training},
-  journal = {arXiv preprint arXiv:2010.05981},
-  year    = {2020}
-}
-```

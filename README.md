@@ -1,8 +1,4 @@
 ## Introduction
-<div align="center">
-  <img src="teaser.jpg" width="800px" />
-</div>
-
 Convolutional Neural Networks are often biased towards either texture or shape, depending on the training dataset [(Geirhos et al. 2019)](https://arxiv.org/pdf/1811.12231.pdf).
 Our ablation shows that such bias degenerates model performance. 
 Motivated by this observation, we develop a simple algorithm for shape-texture debiased learning.

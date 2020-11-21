@@ -16,11 +16,11 @@ Our method also claims to be compatible to other advanced data augmentation stra
 
 | Shape-Texture Debiased Models  | ImageNet (Top-1 Acc.)  |
 |:------------------------------------:|:---------------------:|
-| ResNet-50 [:arrow_down:](https://livejohnshopkins-my.sharepoint.com/:u:/g/personal/yli286_jh_edu/Ecfve0hAi8hJlOkyBnVfHYYBNOl9ibeqbxwviGWc253FXA?e=tocnjL)                            | 76.9                  |
-| ResNet-101 [:arrow_down:](https://livejohnshopkins-my.sharepoint.com/:u:/g/personal/yli286_jh_edu/ESdVdWHZ7IxHtQtxOC0Ib_kBC44ewmWTwFmh75AWisdwsA?e=nSGmmV)                           | 78.9                  |
+| ResNet-50 [:arrow_down:](https://drive.google.com/file/d/1QiL_LgfpHY5odctlZ62YOdgphuYrr1xr/view?usp=sharing)                            | 76.9                  |
+| ResNet-101 [:arrow_down:](https://drive.google.com/file/d/1xiKy-JIWj6x1UkTqq4vFQouz_HgI6PE0/view?usp=sharing)                           | 78.9                  |
 | ResNet-152 [:arrow_down:](https://livejohnshopkins-my.sharepoint.com/:u:/g/personal/yli286_jh_edu/ERnbFlP0kTdIgkwvhp_R5xEBuvYNhwJTF0lUkN1htQPyng?e=NBhirF)                           | 79.8                  |
-| Mixup-ResNeXt-101 [:arrow_down:](https://livejohnshopkins-my.sharepoint.com/:u:/g/personal/yli286_jh_edu/ETkK-viSjr1DnwybWdJAxQ0BeyguIoJhaWQBqTL5NbShGw?e=SHiJx2)                    | 80.5                  |
-| CutMix-ResNeXt-101 [:arrow_down:](https://livejohnshopkins-my.sharepoint.com/:u:/g/personal/yli286_jh_edu/ERtU5qtTag1MtBS4RHZ5Y2EBuKMs0dxnvWSj35tOumRO3Q?e=WKPLK5)                   | 81.2                  |
+| Mixup-ResNeXt-101 [:arrow_down:](https://drive.google.com/file/d/1Y3uSo8L014fB818EOlFgt70W4eegGC7S/view?usp=sharing)                    | 80.5                  |
+| CutMix-ResNeXt-101 [:arrow_down:](https://drive.google.com/file/d/1q64oZuxiRZWFhzrN5jRi46DrcfjNipxG/view?usp=sharing)                   | 81.2                  |
 
 ## Training & Testing:
 Please see the [Training recipes](TRAINING.md) / [Testing recipes](TESTING.md) for how to train / test the models.

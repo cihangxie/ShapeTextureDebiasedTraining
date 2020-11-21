@@ -18,7 +18,7 @@ Our method also claims to be compatible to other advanced data augmentation stra
 |:------------------------------------:|:---------------------:|
 | ResNet-50 [:arrow_down:](https://drive.google.com/file/d/1QiL_LgfpHY5odctlZ62YOdgphuYrr1xr/view?usp=sharing)                            | 76.9                  |
 | ResNet-101 [:arrow_down:](https://drive.google.com/file/d/1xiKy-JIWj6x1UkTqq4vFQouz_HgI6PE0/view?usp=sharing)                           | 78.9                  |
-| ResNet-152 [:arrow_down:](https://livejohnshopkins-my.sharepoint.com/:u:/g/personal/yli286_jh_edu/ERnbFlP0kTdIgkwvhp_R5xEBuvYNhwJTF0lUkN1htQPyng?e=NBhirF)                           | 79.8                  |
+| ResNet-152 [:arrow_down:](https://drive.google.com/file/d/1RIaKss6tSVamN7Da2g0UsGHAIEDowMzq/view?usp=sharing)                           | 79.8                  |
 | Mixup-ResNeXt-101 [:arrow_down:](https://drive.google.com/file/d/1Y3uSo8L014fB818EOlFgt70W4eegGC7S/view?usp=sharing)                    | 80.5                  |
 | CutMix-ResNeXt-101 [:arrow_down:](https://drive.google.com/file/d/1q64oZuxiRZWFhzrN5jRi46DrcfjNipxG/view?usp=sharing)                   | 81.2                  |
 
